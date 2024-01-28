@@ -2,9 +2,8 @@
 
 An experimental minimal chat written in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ryukinix/lisp-chat.git   |
-| commit  | 8a1e180  |
-| systems | lisp-chat |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/ryukinix/lisp-chat.git |
+| commit  | c60dea5                                       |
+| systems | lisp-chat                                     |
+|---------+-----------------------------------------------|
