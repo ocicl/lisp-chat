@@ -4,6 +4,6 @@ An experimental minimal chat written in Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/ryukinix/lisp-chat.git |
-| commit  | fe52beb                                       |
+| commit  | 3b620f1                                       |
 | systems | lisp-chat                                     |
 |---------+-----------------------------------------------|
